@@ -1,0 +1,13 @@
+wheel
+python-constraint
+cocotb
+cocotb-bus
+cocotb-coverage
+cocotb-test
+cocotbext-axi
+cocotbext-eth
+cocotbext-pcie
+py
+pytest
+pyuvm
+numpy
